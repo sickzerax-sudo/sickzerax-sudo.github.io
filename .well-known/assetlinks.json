@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sickzerax_sudo.twa",
+    "sha256_cert_fingerprints": [
+      "0F:FE:94:34:75:6A:EE:32:75:8C:EB:92:98:D8:82:06:FD:A9:64:6A:28:1D:A9:51:2E:BA:26:5A:C4:0C:7F:9C"
+    ]
+  }
+}]
